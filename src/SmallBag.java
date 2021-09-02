@@ -7,12 +7,12 @@ public class SmallBag<T>
 		
 	}
 
-	public void set(T e)
+	public void setSmallBag(T e)
 	{
 		this.e = e;
 	}
 	
-	public T get()
+	public T getSmallBag()
 	{
 		return e;
 	}

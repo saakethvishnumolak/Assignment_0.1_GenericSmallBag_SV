@@ -13,7 +13,7 @@ public class Item<T>
 		this.e = e;
 	}
 	
-	public T get()
+	public T getItem()
 	{
 		return e;
 	}
